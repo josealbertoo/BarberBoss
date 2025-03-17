@@ -1,6 +1,6 @@
 ## Sobre o projeto
 
-Esta **API**, desenvolvida utilizando **.NET 8**, adota os princípios do **Domain-Driven Design (DDD)** para oferecer uma solução estruturada e eficaz no gerenciamento de despesas pessoais. O principal objetivo é permitir que os usuários registrem suas despesas, detalhando informações como título, data e hora, descrição, valor e tipo de pagamento, com os dados sendo armazenados de forma segura em um banco de dados **MySQL**.
+Esta **API**, desenvolvida utilizando **.NET 9**, adota os princípios do **Domain-Driven Design (DDD)** para oferecer uma solução estruturada e eficaz no gerenciamento de despesas pessoais. O principal objetivo é permitir que os usuários registrem suas despesas, detalhando informações como título, data e hora, descrição, valor e tipo de pagamento, com os dados sendo armazenados de forma segura em um banco de dados **MySQL**.
 
 A arquitetura da **API** baseia-se em **REST**, utilizando métodos **HTTP** padrão para uma comunicação eficiente e simplificada. Além disso, é complementada por uma documentação **Swagger**, que proporciona uma interface gráfica interativa para que os desenvolvedores possam explorar e testar os endpoints de maneira fácil.
 
@@ -46,7 +46,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 
 <!-- Links -->
-[dot-net-sdk]: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+[dot-net-sdk]: https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
 <!-- Images -->
 [hero-image]: images/heroimage.png
