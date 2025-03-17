@@ -37,7 +37,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/welissonArley/BarberBoss.git
+    git clone https://github.com/josealbertoo/BarberBoss.git
     ```
 
 2. Preencha as informações no arquivo `appsettings.Development.json`.
